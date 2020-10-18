@@ -1,0 +1,10 @@
+torchtext 
+torch 
+torchvision
+janome
+gensim
+pytorch-lightning
+tqdm
+fugashi
+ipadic
+transformers
